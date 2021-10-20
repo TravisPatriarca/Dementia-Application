@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<people>
+  <person id="0">
+    <name>Connor</name>
+    <relation>Friend</relation>
+    <imageUrl>./examples/contact-photos/connor.jpg</imageUrl>
+  </person>
+  <person id="1">
+    <name>Lochlan</name>
+    <relation>Friend</relation>
+    <imageUrl>./examples/contact-photos/lochlan.jpg</imageUrl>
+  </person>
+  <person id="2">
+    <name>Luke</name>
+    <relation>Brother</relation>
+    <imageUrl>./examples/contact-photos/luke.jpg</imageUrl>
+  </person>
+  <person id="3">
+    <name>Emma</name>
+    <relation>Mother</relation>
+    <imageUrl>./examples/contact-photos/emma.jpg</imageUrl>
+  </person>
+  <person id="4">
+    <name>John</name>
+    <relation>Dad</relation>
+    <imageUrl>./examples/contact-photos/john.jpg</imageUrl>
+  </person>
+</people>

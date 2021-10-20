@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://www.w3.org/2001/12/soap-envelope" SOAP-ENV:encodingStyle="http://www.w3.org/2001/12/soap-encoding">
+  <SOAP-ENV:Body xmlns:lle="http://www.xyz.org/lifelogevents">
+    <lle:Event type="tracklog">
+      <lle:eventid>0</lle:eventid>
+      <lle:location>
+        <lle:long>118.67431640625</lle:long>
+        <lle:lat>-32.129105378668854</lle:lat>
+      </lle:location>
+      <lle:start-time>
+        <lle:datetimestamp>2021-09-14T13:36:51.6280946+08:00</lle:datetimestamp>
+      </lle:start-time>
+      <lle:end-time>
+        <lle:datetimestamp>2021-09-14T13:36:51.6280946+08:00</lle:datetimestamp>
+      </lle:end-time>
+      <lle:filepath>tracklogs/route_0.gpx</lle:filepath>
+    </lle:Event>
+    <lle:Event type="tracklog">
+      <lle:eventid>1</lle:eventid>
+      <lle:location>
+        <lle:long>118.67431640625</lle:long>
+        <lle:lat>-32.129105378668854</lle:lat>
+      </lle:location>
+      <lle:start-time>
+        <lle:datetimestamp>2021-09-14T13:36:51.6280946+08:00</lle:datetimestamp>
+      </lle:start-time>
+      <lle:end-time>
+        <lle:datetimestamp>2021-09-14T13:36:51.6280946+08:00</lle:datetimestamp>
+      </lle:end-time>
+      <lle:filepath>tracklogs/route_1.gpx</lle:filepath>
+    </lle:Event>
+    <lle:Event type="tracklog">
+      <lle:eventid>2</lle:eventid>
+      <lle:location>
+        <lle:long>118.67431640625</lle:long>
+        <lle:lat>-32.129105378668854</lle:lat>
+      </lle:location>
+      <lle:start-time>
+        <lle:datetimestamp>2021-09-14T13:36:51.6280946+08:00</lle:datetimestamp>
+      </lle:start-time>
+      <lle:end-time>
+        <lle:datetimestamp>2021-09-14T13:36:51.6280946+08:00</lle:datetimestamp>
+      </lle:end-time>
+      <lle:filepath>tracklogs/route_2.gpx</lle:filepath>
+    </lle:Event>
+    <lle:Event type="person">
+      <lle:eventid>3</lle:eventid>
+      <lle:location>
+        <lle:long>115.73822021484375</lle:long>
+        <lle:lat>-32.541024893743725</lle:lat>
+      </lle:location>
+      <lle:start-time>
+        <lle:datetimestamp>2018-09-14T11:49:56.0000000</lle:datetimestamp>
+      </lle:start-time>
+      <lle:end-time>
+        <lle:datetimestamp>2018-09-14T13:27:56.0000000</lle:datetimestamp>
+      </lle:end-time>
+      <lle:personid>0</lle:personid>
+      <lle:details>Went out for lunch and purchased a coffee</lle:details>
+    </lle:Event>
+    <lle:Event type="person">
+      <lle:eventid>4</lle:eventid>
+      <lle:location>
+        <lle:long>115.74706077575684</lle:long>
+        <lle:lat>-31.797494529269258</lle:lat>
+      </lle:location>
+      <lle:start-time>
+        <lle:datetimestamp>2019-09-13T11:53:00.0000000</lle:datetimestamp>
+      </lle:start-time>
+      <lle:end-time>
+        <lle:datetimestamp>2019-09-13T14:28:00.0000000</lle:datetimestamp>
+      </lle:end-time>
+      <lle:personid>2</lle:personid>
+      <lle:details>Went shopping for clothes</lle:details>
+    </lle:Event>
+    <lle:Event type="person">
+      <lle:eventid>5</lle:eventid>
+      <lle:location>
+        <lle:long>115.63076019287109</lle:long>
+        <lle:lat>-33.322782922057741</lle:lat>
+      </lle:location>
+      <lle:start-time>
+        <lle:datetimestamp>2020-09-26T09:00:51.0000000</lle:datetimestamp>
+      </lle:start-time>
+      <lle:end-time>
+        <lle:datetimestamp>2020-09-26T17:00:51.0000000</lle:datetimestamp>
+      </lle:end-time>
+      <lle:personid>1</lle:personid>
+      <lle:details>Went fishing</lle:details>
+    </lle:Event>
+    <lle:Event type="image">
+      <lle:eventid>6</lle:eventid>
+      <lle:location>
+        <lle:long>123.8323974609375</lle:long>
+        <lle:lat>-32.472695022061487</lle:lat>
+      </lle:location>
+      <lle:start-time>
+        <lle:datetimestamp>2021-05-14T13:42:04.0000000</lle:datetimestamp>
+      </lle:start-time>
+      <lle:end-time>
+        <lle:datetimestamp>2021-05-14T13:42:04.0000000</lle:datetimestamp>
+      </lle:end-time>
+      <lle:filepath>./examples/images/image1.jpg</lle:filepath>
+    </lle:Event>
+    <lle:Event type="image">
+      <lle:eventid>7</lle:eventid>
+      <lle:location>
+        <lle:long>129.13192749023438</lle:long>
+        <lle:lat>-31.660395123073883</lle:lat>
+      </lle:location>
+      <lle:start-time>
+        <lle:datetimestamp>2019-09-14T17:55:54.0000000</lle:datetimestamp>
+      </lle:start-time>
+      <lle:end-time>
+        <lle:datetimestamp>2019-09-14T17:55:54.0000000</lle:datetimestamp>
+      </lle:end-time>
+      <lle:filepath>./examples/images/image2.jpg</lle:filepath>
+    </lle:Event>
+    <lle:Event type="image">
+      <lle:eventid>8</lle:eventid>
+      <lle:location>
+        <lle:long>138.7353515625</lle:long>
+        <lle:lat>-34.585736286512869</lle:lat>
+      </lle:location>
+      <lle:start-time>
+        <lle:datetimestamp>2019-09-14T00:56:16.0000000</lle:datetimestamp>
+      </lle:start-time>
+      <lle:end-time>
+        <lle:datetimestamp>2019-09-14T00:56:16.0000000</lle:datetimestamp>
+      </lle:end-time>
+      <lle:filepath>./examples/images/image3.jpg</lle:filepath>
+    </lle:Event>
+    <lle:Event type="image">
+      <lle:eventid>9</lle:eventid>
+      <lle:location>
+        <lle:long>118.32893371582031</lle:long>
+        <lle:lat>-31.479623233453637</lle:lat>
+      </lle:location>
+      <lle:start-time>
+        <lle:datetimestamp>2021-09-14T17:56:47.1127334+08:00</lle:datetimestamp>
+      </lle:start-time>
+      <lle:end-time>
+        <lle:datetimestamp>2021-09-14T17:56:47.1127334+08:00</lle:datetimestamp>
+      </lle:end-time>
+      <lle:filepath>./examples/images/image4.jpg</lle:filepath>
+    </lle:Event>
+    <lle:Event type="tweet">
+      <lle:eventid>10</lle:eventid>
+      <lle:location>
+        <lle:long>114.10400390625</lle:long>
+        <lle:lat>-21.912470952680266</lle:lat>
+      </lle:location>
+      <lle:start-time>
+        <lle:datetimestamp>2017-09-14T18:02:11.0000000</lle:datetimestamp>
+      </lle:start-time>
+      <lle:end-time>
+        <lle:datetimestamp>2017-09-14T18:02:11.0000000</lle:datetimestamp>
+      </lle:end-time>
+      <lle:text>Starting my journey in Exmouth</lle:text>
+    </lle:Event>
+    <lle:Event type="tweet">
+      <lle:eventid>11</lle:eventid>
+      <lle:location>
+        <lle:long>116.7626953125</lle:long>
+        <lle:lat>-20.797201434306984</lle:lat>
+      </lle:location>
+      <lle:start-time>
+        <lle:datetimestamp>2017-09-14T23:02:28.0000000</lle:datetimestamp>
+      </lle:start-time>
+      <lle:end-time>
+        <lle:datetimestamp>2017-09-14T23:02:28.0000000</lle:datetimestamp>
+      </lle:end-time>
+      <lle:text>The water looks great!</lle:text>
+    </lle:Event>
+    <lle:Event type="tweet">
+      <lle:eventid>12</lle:eventid>
+      <lle:location>
+        <lle:long>118.6083984375</lle:long>
+        <lle:lat>-20.324023603422518</lle:lat>
+      </lle:location>
+      <lle:start-time>
+        <lle:datetimestamp>2017-09-15T00:02:43.0000000</lle:datetimestamp>
+      </lle:start-time>
+      <lle:end-time>
+        <lle:datetimestamp>2017-09-15T00:02:43.0000000</lle:datetimestamp>
+      </lle:end-time>
+      <lle:text>Just arrived in Port Hedland</lle:text>
+    </lle:Event>
+    <lle:Event type="tweet">
+      <lle:eventid>13</lle:eventid>
+      <lle:location>
+        <lle:long>121.585693359375</lle:long>
+        <lle:lat>-19.290405639498005</lle:lat>
+      </lle:location>
+      <lle:start-time>
+        <lle:datetimestamp>2021-09-15T21:03:01.0000000</lle:datetimestamp>
+      </lle:start-time>
+      <lle:end-time>
+        <lle:datetimestamp>2021-09-15T21:03:01.0000000</lle:datetimestamp>
+      </lle:end-time>
+      <lle:text>Almost there...</lle:text>
+    </lle:Event>
+    <lle:Event type="tweet">
+      <lle:eventid>14</lle:eventid>
+      <lle:location>
+        <lle:long>122.255859375</lle:long>
+        <lle:lat>-17.895114303749153</lle:lat>
+      </lle:location>
+      <lle:start-time>
+        <lle:datetimestamp>2021-09-15T00:03:14.0000000</lle:datetimestamp>
+      </lle:start-time>
+      <lle:end-time>
+        <lle:datetimestamp>2021-09-15T00:03:14.0000000</lle:datetimestamp>
+      </lle:end-time>
+      <lle:text>FINALLY ARRIVED!!!</lle:text>
+    </lle:Event>
+    <lle:Event type="facebook_post">
+      <lle:eventid>15</lle:eventid>
+      <lle:location>
+        <lle:long>143.2177734375</lle:long>
+        <lle:lat>-36.914764288955936</lle:lat>
+      </lle:location>
+      <lle:start-time>
+        <lle:datetimestamp>2019-11-14T18:03:39.0000000</lle:datetimestamp>
+      </lle:start-time>
+      <lle:end-time>
+        <lle:datetimestamp>2019-11-14T18:03:39.0000000</lle:datetimestamp>
+      </lle:end-time>
+      <lle:text>Just reach VIC!</lle:text>
+    </lle:Event>
+    <lle:Event type="facebook_post">
+      <lle:eventid>16</lle:eventid>
+      <lle:location>
+        <lle:long>115.927734375</lle:long>
+        <lle:lat>-31.910204597744382</lle:lat>
+      </lle:location>
+      <lle:start-time>
+        <lle:datetimestamp>2019-09-14T18:03:55.0000000</lle:datetimestamp>
+      </lle:start-time>
+      <lle:end-time>
+        <lle:datetimestamp>2019-09-14T18:03:55.0000000</lle:datetimestamp>
+      </lle:end-time>
+      <lle:text>Look at this cat!</lle:text>
+    </lle:Event>
+    <lle:Event type="facebook_post">
+      <lle:eventid>17</lle:eventid>
+      <lle:location>
+        <lle:long>116.070556640625</lle:long>
+        <lle:lat>-32.717977098357593</lle:lat>
+      </lle:location>
+      <lle:start-time>
+        <lle:datetimestamp>2020-06-17T18:04:06.0000000</lle:datetimestamp>
+      </lle:start-time>
+      <lle:end-time>
+        <lle:datetimestamp>2020-06-17T18:04:06.0000000</lle:datetimestamp>
+      </lle:end-time>
+      <lle:text>What is this??</lle:text>
+    </lle:Event>
+    <lle:Event type="video">
+      <lle:eventid>18</lle:eventid>
+      <lle:location>
+        <lle:long>121.7999267578125</lle:long>
+        <lle:lat>-32.175612478499346</lle:lat>
+      </lle:location>
+      <lle:start-time>
+        <lle:datetimestamp>2021-09-14T18:04:39.4815721+08:00</lle:datetimestamp>
+      </lle:start-time>
+      <lle:end-time>
+        <lle:datetimestamp>2021-09-14T18:04:39.4815721+08:00</lle:datetimestamp>
+      </lle:end-time>
+      <lle:filepath>./examples/videos/video1.mp4</lle:filepath>
+    </lle:Event>
+    <lle:Event type="video">
+      <lle:eventid>19</lle:eventid>
+      <lle:location>
+        <lle:long>133.65966796875</lle:long>
+        <lle:lat>-32.091882620021792</lle:lat>
+      </lle:location>
+      <lle:start-time>
+        <lle:datetimestamp>2019-09-17T18:04:56.0000000</lle:datetimestamp>
+      </lle:start-time>
+      <lle:end-time>
+        <lle:datetimestamp>2019-09-17T18:04:56.0000000</lle:datetimestamp>
+      </lle:end-time>
+      <lle:filepath>./examples/videos/video2.mp4</lle:filepath>
+    </lle:Event>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
